@@ -1,4 +1,4 @@
-package com.dnieln7.maxcloseprice;
+package com.rossfuega.maxcloseprice;
 
 /**
  * MaxClosePriceReducer.java
